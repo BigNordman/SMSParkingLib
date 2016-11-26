@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <zone zone_number="201" zone_desc="зона 1">
+        <point lat="56.832004" lon="60.582730"/>
+        <point lat="56.836125" lon="60.581904"/>
+        <point lat="56.837539" lon="60.595808"/>
+        <point lat="56.833848" lon="60.597321"/>
+        <point lat="56.832004" lon="60.582730"/>
+    </zone>
+
+</data>
